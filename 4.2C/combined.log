@@ -1,0 +1,44 @@
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 0 received for division","service":"calculate-service"}
+{"level":"error","message":"Division by zero error","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameter 16 received for square root calculation","service":"calculate-service"}
+{"level":"info","message":"Parameter 20 received for square root calculation","service":"calculate-service"}
+{"level":"info","message":"Parameter -20 received for square root calculation","service":"calculate-service"}
+{"level":"info","message":"Parameters 3 and 4 received for modulo operation","service":"calculate-service"}
+{"level":"info","message":"Parameters 3 and 4 received for addition","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 8 and 4 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 8 and 0 received for division","service":"calculate-service"}
+{"level":"error","message":"Division by zero error","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 2 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 8 and 0 received for division","service":"calculate-service"}
+{"level":"error","message":"Division by zero error","service":"calculate-service"}
+{"level":"info","message":"Parameters 8 and 0 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 2 received for exponentiation","service":"calculate-service"}
+{"level":"error","message":"n is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameter 121 received for square root calculation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 4 received for modulo operation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 4 received for modulo operation","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 38 and 0 received for division","service":"calculate-service"}
+{"level":"error","message":"Division by zero error","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for addition","service":"calculate-service"}
