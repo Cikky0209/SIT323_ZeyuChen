@@ -1,0 +1,13 @@
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 150 and 78 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 150 and 78 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 150 and 78 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for muliplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for muliplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
