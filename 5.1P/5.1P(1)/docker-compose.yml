@@ -1,0 +1,30 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    image: chenzey/week5
+    ports:
+      - '30503:3040'
+    environment:
+      - PORT=3043
+    container_name: my-app4
+    networks:
+      - my-net
+
+  app1:
+    build: .
+    image: chenzey/week5
+    ports:
+      - '30403:3040'
+    environment:
+      - PORT=3044
+    container_name: my-app3
+    networks:
+      - my-net
+
+
+networks:
+  my-net:
+    driver: bridge
+    
+    
